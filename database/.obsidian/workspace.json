@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "ea518a16021d7fda",
+    "type": "split",
+    "children": [
+      {
+        "id": "83c0daae658e0661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3fa1a061fc4a63f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NIRA VERIFICATION SYSTEM/Table Creation/admin.ekyc_fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb9940223ff40796",
+    "type": "split",
+    "children": [
+      {
+        "id": "97a07c7ebbeff3eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd5413fe3dd58dab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7edb6c9a50488cc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b7eb3f96aac0e59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c0af86caef11707",
+    "type": "split",
+    "children": [
+      {
+        "id": "c762f93f8b4ef15d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ba684b36716485",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NIRA VERIFICATION SYSTEM/Table Creation/admin.ekyc_fields.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34ebc99fc2c2f492",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NIRA VERIFICATION SYSTEM/Table Creation/admin.ekyc_fields.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d745ecc6f0f1f70b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0d9e2320e366be2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NIRA VERIFICATION SYSTEM/Table Creation/admin.ekyc_fields.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c3fa1a061fc4a63f",
+  "lastOpenFiles": [
+    "NIRA VERIFICATION SYSTEM/Table Creation/admin.clients.md",
+    "NIRA VERIFICATION SYSTEM/Table Creation/admin.ekyc_fields.md",
+    "NIRA VERIFICATION SYSTEM/Table Creation/admin.api_rate.md",
+    "NIRA VERIFICATION SYSTEM/Table Creation/admin.admin_users.md",
+    "Postgresql/Archives.md",
+    "NIRA VERIFICATION SYSTEM/Table Creation",
+    "Untitled",
+    "NIRA VERIFICATION SYSTEM",
+    "Postgresql/Triggers.md",
+    "Postgresql"
+  ]
+}
